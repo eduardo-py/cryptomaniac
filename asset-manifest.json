@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cryptomaniac.github.io/static/css/main.b8d01606.css",
-    "main.js": "/cryptomaniac.github.io/static/js/main.77086cac.js",
+    "main.js": "/cryptomaniac.github.io/static/js/main.9486171d.js",
     "index.html": "/cryptomaniac.github.io/index.html",
     "main.b8d01606.css.map": "/cryptomaniac.github.io/static/css/main.b8d01606.css.map",
-    "main.77086cac.js.map": "/cryptomaniac.github.io/static/js/main.77086cac.js.map"
+    "main.9486171d.js.map": "/cryptomaniac.github.io/static/js/main.9486171d.js.map"
   },
   "entrypoints": [
     "static/css/main.b8d01606.css",
-    "static/js/main.77086cac.js"
+    "static/js/main.9486171d.js"
   ]
 }
