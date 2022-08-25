@@ -23,11 +23,11 @@ function App() {
       {/* EVERY OTHER PAGE IN THE WEBSITE */}
       <Routes>
         {/* HOMEPAGE */}
-        <Route path='/cryptomaniac.github.io/' element={<CoinsTable />} />
-        <Route path='/cryptomaniac.github.io/about' element={<About />}/>
-        <Route path='/cryptomaniac.github.io/trending' element={<Trending />}/>
-        <Route path='/cryptomaniac.github.io/coin/:coinId' element={<CoinInfo/>}/>
-        <Route path='/cryptomaniac.github.io/coin/*' element={<CoinDoesntExist/>}/>
+        <Route path='/' element={<CoinsTable />} />
+        <Route path='about' element={<About />}/>
+        <Route path='trending' element={<Trending />}/>
+        <Route path='coin/:coinId' element={<CoinInfo/>}/>
+        <Route path='coin/*' element={<CoinDoesntExist/>}/>
       </Routes>
       </BrowserRouter>
     </>
